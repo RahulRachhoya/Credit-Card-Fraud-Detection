@@ -40,7 +40,7 @@ To run the notebook:
 
 6. Results:
 -----------
-The best-performing model achieved an F1-score of [insert score] on the test set, with [insert additional metrics].
+The best-performing model achieved an score of [test score] on the test set, with [accuracy metrics].
 
 7. Conclusion:
 --------------
@@ -48,6 +48,6 @@ In conclusion, this project demonstrates the application of machine learning tec
 
 8. Contact:
 -----------
-For any questions or feedback, please contact [Your Name] at [Your Email].
+For any questions or feedback, please contact Rahul Rachhoya at rahulrachhoya@outlook.com.
 
 ======================================================
